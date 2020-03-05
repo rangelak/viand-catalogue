@@ -73,7 +73,7 @@ function processMealData(dailyData, mealTimeQuery) {
 // decides which meal to display based on time of day
 // currently always returns lunch
 function decideMealTime() {
-    return 'Dinner';
+    return 'Lunch';
 }
 
 /***************************************************
